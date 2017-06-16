@@ -1,2 +1,2 @@
-# yong
-welcome to my codes
+# algorithm
+starting date July, 2017
